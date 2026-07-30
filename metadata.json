@@ -1,0 +1,6 @@
+{
+  "name": "Monal — Happy Girlfriend's Day ❤️",
+  "description": "A luxury romantic Girlfriend's Day experience for Monal from Keshu with flower slideshows, interactive love letters, teddy animations, and secret surprises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
